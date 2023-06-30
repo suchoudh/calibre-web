@@ -6,7 +6,7 @@ singledispatch>=3.4.0.0
 backports_abc>=0.4
 Flask>=1.0.2
 iso-639>=0.4.5
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 pytz>=2016.10
 requests>=2.11.1
 SQLAlchemy>=1.1.0
